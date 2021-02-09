@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "data-engineer-17112020",
+  "private_key_id": "2d9f55e7c2b18b688c5394c1217c6af7e47a89e5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC7z6OL91nc5Fyo\numeHgfi1Q7Msmtf1fvw44DQd7zG+/fpK8qB24gDijqIRIn3g44R7mS035ZZ2mjmD\n415t0RgjCbjiVBgsTBQ6E/eCGtqjVoQEsv6pLSRw2wyR60HHB5eJIKJLPC8EKOLS\nC4axQLxqE6syY5krAxdzxqbwkzRiI9xHmKb3YNcuxedSK4/9BYsyW9JB8UJ2dqyk\nZogaiAfyU40oK8BS9atCG6jO3xSJmXtZl/Bhy45AjhI0S7YujAOqQJ3Ek+JqcRfw\n3AFs8lMGqPOlc+q9Cx4eakCw3MqJjr0QWk0SDb9yI5SHfv10towvSUbiWYV/Lzvt\nrVaSiAIdAgMBAAECggEAAmANt0icDCqehLXCzG3CNEypuJqGuQCaS6qDjjixs4gp\nFlyQ10q5bHlq/Et9iw665LNFuqC+hpEhwWoVOM9S/lJyUk5ySyZ1KlzenaMdo8Da\n2j0HR81zL12IgFSY2DMKNr5BFIbWKLfO/TgPGTEdO5GJxzvc5TSHTeazwsl3I/c+\n6jD+GvBzmcc3P6LVc+QrI71LB7UZa9kUjG9BJHJ84mHYHMYKNKzMK02FAs3xq+NQ\nSsEyy9St5s9DTMXYBxJj3qgWf81fHMapfjvSsDMbwPxmf/5N+HJQzE61xsfZ84BW\nHTZU00vnVs7Xy8ruTWJk2e7E2COsdmJ+ZQxUq3ZqkwKBgQDobhHe/y1/XkJd6/5l\nx5LDgG+8yJcPFkHUUt9eMptQUGVbw5nyZZomeT4IcF6DPwkjs8RJgv/+7YgN4mk7\nwK0Lq8Tdtz3mKC8srLIjZA97RByhLuWKQ7NKL5K+n+nketNQDmxbTvKfRzL+5bwq\nr5YUyGnO98Z3WZot5st1ZIr4ywKBgQDO20D9A01g6BiOpOcTb/4sQottjX3i+8W8\naa42Msjw0DCnFixL09LKMosP0mSfWF1S1tY1w59R6hyvUZU4Tlci6YuBfSJuSdfK\njvdkOxak3t1nf7pm1MhVq8N1C449NCu3EcADsD7pllFvFZ6NsTIaIDU/hldcYBMk\nGRZfDkBbtwKBgGQqQzNZvu673VgCgtCz8BCmggDWZRsQWXA6Ap7iqkIzU2r3YZmv\npX3dFBmo62IeQT8MkpOni9D95nstTnJ8t1ZnQODXvio4uRPEnMRZs75IfRoNTsiG\nInbfB5t06OQY9oXyoUm8PRzdHyHwOWYf40qzj72s0+/NQn9zjczadnV/AoGAMMmT\nhVkfCekTyajo+zOhzgyP1/HULBHXrD18ojnOHMXtg6r+HZBDGf9bvwqPQunTcPNM\nqHeP/wDpbQwf1pzbfld42LyLv1lZNOQNQy2QhKgvrfZ5H0G2UkZlnhhwnszMNqxQ\nDk6mN++FG18M+zw8pd7M0EO+HQJn4U6tcRPqZ/cCgYAriCWRxQzy4sYMVyKKfLVw\n4FWDxcOtHpRaLlYOTrQ4NuixmHvZyXilt5USK0I/cbpOpfimj+BK344mMcNQlsWZ\nH+tkvnPyzEX6vrQPVfYHnYWqQUZeDwswO0equIy5OTH2wi7v5iT4xP/Tt7Qxb3fL\nLopqIC9nLZ7XL4qhUwEFJg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigquery-writer@data-engineer-17112020.iam.gserviceaccount.com",
+  "client_id": "106743806472598485643",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigquery-writer%40data-engineer-17112020.iam.gserviceaccount.com"
+}

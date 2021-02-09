@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "data-engineer-17112020",
+  "private_key_id": "49d97c7584163099904836165418db6c4e5e3bbc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrnx6KUQywiRn9\nrlOF8Juj+EZhWvxHCfJyrBEK+WpWGtnzt4D5G1hHDJWjA6BMfz7RhjXeX7OQ7hrD\nfcUT5mv1Xbta+/LZhLQ9RG74/zbplfGEeGwOmDA2GKfr452We1Ur09rXxaYAh21S\nqs10RehQAzbiGbVutnvE6FxCVfpa/Hdh2Eesxcao+4oOi67oQEi9ni7lhM0gp7tD\nI+pKGUQceQVtkRyDw3viQwH7QAenu+6wKeJX7W+I3+vLDFygTK1C3k/ujk0KIOgw\n7qso6KDGpjaCg/KOT1G1yi46p/hWKj/Z/PIahky7n9zI4vo+jjyCQs5zBY7KSms5\n97XXYChRAgMBAAECggEAAekonuOeH40MjrLVLTrrkLIf88+JMC/1KhUDr4/tVijA\nX81IO1Me8tOPYEbsZE2lC7zRzA2xYx4I4D+oj7sosoz+Rq9ixHc3cS3aNR1/pVl3\nseuL+xxIqnbbJRjd//c+5dkFqRIDR3g6iF7By4Hyad759R8nfPm9Jl5r6zUn2hbM\nKc/qJhVL3hUBi3Fi6qP9YQQfustxv9xD7xxJ0XGDd78HsioGKvo5kQ3fT08rdPn3\nuDFcIkH9PXHoQUmVbfspZyIGTC1AOmF7o3vhjjs6dXw0IUFAXcW3yKetJ9RHQ9SV\ncmcbO6I0vLYJLGrHLTLV6mRAOzpgFeQPGQeH/I9hXQKBgQDefC4vDpPxQs8RZRkJ\n1Avwdj7UhLBGkUCzTMxRwBg0eVlMiNQOwrBhsElgUysCZ83eCnye0G9FTefAD0H/\n+hr6zNlT9TuoTKtinZcfKfFK0cg2o2HpxIOHjBnLrrPkZ0CDw4+b/xQHHIYKNruA\nCRcVoX7I8PKWO060/QjWnVh2xwKBgQDFeXW3jTKrZhnj+t46aZwSOYNYay1zCjFs\nheBzU5+sm5Tdx/NRd35FImJKHZBdunW3Aie2CfbMSRGJdTXR3gFDQbXkoWtLZ16X\n1MSHZUE9JaLXewIflbl3s0rwsgsVali9ByWKeW+RqsIm2Uace6FUhmxTWDpFxJyj\nBwh6YplwJwKBgQC/dAUaIWVV27PsuB7PwlVz2409u+ElGKGgqZm5T6CEp1gc8DHr\nccXuipDZ/zennkQdqtCKqbrW3K9tKrQU3tiQse7ivMlVjoR9HDeLbcBiLhwoSHhd\nfenhnsIj8HaFOgTeXk8aYmqNpBIEgAzhpPDkgFBmAlH+zZJxVL1iUYxqyQKBgDyt\nIl+A0iXaHHBxf+EA3ES5SUNcwz1Kz37h7+JfuntF3sr6iifpCHJjq0HMrbQu+8Z8\nsgj8LMn+VZYf3qaaiVbKFQKoGpizrVwHs09K7G3GZ6/ACxn7Xl6KR6eHfWJaJ+QF\nEyLmR0LB7iATuN+SGTMojpZZUKZpUBvDqHY6X50XAoGAHtSWWFX9idUXv1m+j3ca\nedJWQq5in8NFm4rHfSpnq+f7ABqs5j/wQSE0/t0i4P4woldw1vQCKzHkTYSdWY1t\niZAccNcowWejX3+/EIgDQKAGvCcy6QGEiaDQj46zHpafveo177gVUkNpPZZEko7R\nZ6eBh7spBg8FGII16UoXMVc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kafka-bigquery-connector@data-engineer-17112020.iam.gserviceaccount.com",
+  "client_id": "112582969793121816476",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kafka-bigquery-connector%40data-engineer-17112020.iam.gserviceaccount.com"
+}

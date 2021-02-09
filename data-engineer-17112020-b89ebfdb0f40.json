@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "data-engineer-17112020",
+  "private_key_id": "b89ebfdb0f401d608b093f5d059957505b26a68c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDNBUZNNMTQyShG\nzLPhRQB4qq/dj/+FU7+25h8ulmxGFo1TQLMeKAYZWgWpgVtlfOu/pHfOkJttmqjS\niGxUgyonWxAZwVJOCrhpjDY0t91cpu4pqi4FH4Mh4oUHMoZnekhJGR8Y5du9DTYm\nklVMx0FffgKdOIEcFQa1oWgcmrwL2lu4jJyCVc8V7DSl2O7hi79e4Bi+K7kFq1p6\nxGfVLFb/MNwnoyt2agixvMWecfRrdqIXU25IXA9Ydsuh6cYoBno+ph1dM4jGEwx2\nuwD7sHldMALaGeHC2dEceVkMiSwaEwVIA6N5I/yNKUNnq+wLdyZtD7F6vz1FQ1KI\n2LiWrP9rAgMBAAECggEAEli3J9A3D0VRA1+XdpXe1ZgrULUYH+2UqbYCHasnA/FK\nCE8xODD2CsK8NaT2cX3c+DNW5/dCJsFrphtrMPeOiCMQAnNYUtTcF9CM8T7FjQsA\neQivlunGVFFEUkE6jHwBh/kQMqwvHnCA41wTogvv/67zu5oDg73QnI8Aar7gtmFU\n7UQS6HXjdvPNcjJDWj5/xCGL/ARvsiPhU5x0JHaRcqQNcr054ic1tbuQ/uR/iN37\nyNUkbxfVKPu9VVKF5S+6zjEpmBr1ph8JtYLPfiQcuTzU5pjyxbUZx+SMEu0QBqD9\nBWHGGpHN33S621QgmNwSyPix7ZQ84oCokSTzZOd6gQKBgQDtyP0Dkc5r2VDH+TWg\nATG48pnCMzyrUHSfkg5y+VOfCVj7QoXVz/d+7JPA0GuTnaMs34fmkTJv5g6k95HO\nHsPABGsfLLTql+tsLTO37wlweRE4WRzXOxqLniZtUi6Ni5OWp7TNohod0dgHI3mK\nIn0zZ97PTXzy9bafixLpWo7yywKBgQDcucScjci45uh3U0gvGvAn4/ek9ZldNxv7\nClTx8BHY797M9JiMphRftRlcHciFLbv5YyxLFpKUF0+iYodv+S8sC1JA+ovtfbcw\nG9FGJ+/sdXgf4asBGiE/R9yoD/oqsMrgc9YW3Yg035RqY37VZbPNfigdLmpt3mV7\nl4iOz9px4QKBgQDaImyBTsv3whdKLAMWsqHDkcKeFdTNL/ScwidBMBqXJcMcVK1k\nNPFN3Ye59TkK5SzhKHqKeJ61am36xiZa2Xwn9aWzppadMxrEVT9BuCaHqHi0oYNE\nqzKx7DZCSYbtUKLnLRg/IDsnKe8stU10/Ciw9NPAhsxeMi0DdVi2+91xOwKBgQC5\nDj7bCrx42Y+ZS4e/hpRGvYiJEyiL0IJzDQx+80njWeiwaXnkofF+9HTYmFff4KIy\nyoT+R2SJKKopePYYWRDFmpBRzj221anaedgRO7aZxzr5b9hRSjkJtxQ3C34wgJz3\nZebesMlbmv/x2o0iGOyQou662Il+p/Dpl/hz06xPwQKBgQC+kjLlGPnj4g/dRqAc\nIfJ76vLqlwlCixwIftOStchbP6IQPof962VHpKt9YzrLyi4t6JNs266O+HLv78GS\ny38zKNDalD5klTBoKZ4HnauMD/HVqc5wDfjrLDb9vSSrGgW8j8Hb35XDni4DuGY6\ndFe1628xExW/JKcQMAwZuVLj2w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mlflow@data-engineer-17112020.iam.gserviceaccount.com",
+  "client_id": "105389959621597942214",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mlflow%40data-engineer-17112020.iam.gserviceaccount.com"
+}
